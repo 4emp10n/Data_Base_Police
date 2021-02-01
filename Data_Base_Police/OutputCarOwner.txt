@@ -1,0 +1,10 @@
+FIO: ppp  ppp  ppp
+Address: pppstreet,   333house,  pppappartment.
+Car Model: ppp
+Number: 333
+__________________
+FIO: kkk  kkk  kkk
+Address: kkkstreet,   444house,  kkkappartment.
+Car Model: kkk
+Number: 444
+__________________
